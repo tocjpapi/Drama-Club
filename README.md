@@ -9,9 +9,9 @@ https://github.com/tocjpapi/Drama-Club/assets/148444308/3278750a-6b16-4963-b986-
 
 
 
-# Drama Club Website Showcase
+# Drama Club 
 
-Welcome to the School Drama Club Website Showcase, a digital space dedicated to celebrating the creativity and passion of our school's drama club. This platform aims to provide a captivating online experience that reflects the essence of our club's performances and artistic endeavors.
+A digital space dedicated to celebrating the creativity and passion of our school's drama club. It features good animations, UX and transitions. This platform aims to provide a captivating online experience that reflects the essence of our club's performances and artistic endeavors.
 
 ## Description
 
